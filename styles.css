@@ -1,0 +1,60 @@
+
+.secondary{
+	height: 30px;
+	width: 100%;
+	background-color: #1e4da1;
+	float: left;
+}
+.menu{
+	height: 100px;
+	width: 100%;
+	float: left;
+
+}
+.slider{
+	height: auto;
+	width: 100%;
+	float: left;
+	/*background-color: teal;*/
+
+}
+#slide{
+	width: 100%;
+	height: auto;
+}
+.apply{
+	height: 120px;
+	width: 100%;
+	background-color: #1e4da1;
+	text-align: center;
+	font-size: 30px;
+	color: #FFF;
+	float: left;
+}
+#apply_button{
+/*	border: 1px solid white;
+*/	margin:0px;
+	width: auto; 
+}
+.content{
+	height: 1000px;
+	width: 100%;
+	background-color: grey;
+	float: left;
+}
+.sub_content{
+	width: 30%;
+	height: 600px;
+	background-color: white;
+	float: left;
+	margin-left: 23px;
+}
+
+.banner{
+	width: 31.6%;
+	height: 120px;
+	/*background-color: grey;*/
+	float: left;
+	margin-left:23px;
+	margin-top: 30px;
+}
